@@ -58,7 +58,7 @@
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [COPIE E COLE AQUI O LINK DO SEU REPOSITÓRIO]
+    git clone https://github.com/Fernanda-Barreto/Gemini-CL.git
     ```
 2.  **Navegue até o diretório:**
     ```bash
