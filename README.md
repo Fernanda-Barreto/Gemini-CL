@@ -19,7 +19,7 @@
 * **Print da Geração do Código (Visão do Terminal):**
     *A imagem demonstra o Gemini CLI executando o prompt e gerando o arquivo `linear_search.py` e sua estrutura, incluindo a documentação interna e a complexidade $O(n)$.*
 
-![Captura de tela do Gemini CLI após a execução do prompt, mostrando a escrita do arquivo linear_search.py com a função 'encontrar_maximo' e a complexidade O(n)](Captura%20de%20tela%202025-10-17%20095329.png)
+![Captura de tela do Gemini CLI após a execução do prompt, mostrando a escrita do arquivo linear_search.py com a função 'encontrar_maximo' e a complexidade O(n)](CLI.png)
 
 ---
 
